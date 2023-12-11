@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoderNessim
+- 👋 Hi, I’m Nessim Yohros
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning computer science at Washington University in St. Louis
 - 💞️ I’m looking to collaborate on fun front-end-based projects
